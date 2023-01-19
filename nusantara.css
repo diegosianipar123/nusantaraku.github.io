@@ -1,0 +1,15 @@
+/*
+ Background Color : #adad85
+ Title Color :      #003300
+ Text Color :       #000000
+*/
+
+body {
+    background-color: #669999;
+    color: #333333;
+    font-family: "Open Sans", Arial, Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    font font-weight: 400;
+    padding: 15px;
+    margin: 0;
+}
